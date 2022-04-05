@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo 'pwd'
-=======
-"pwd"
->>>>>>> 5d60b9570226c1a2197a26d2ca5f29253a51d1a4
