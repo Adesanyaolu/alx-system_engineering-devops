@@ -1,4 +1,4 @@
-lls a process named killmenow
+# Kills a process named killmenow
 
 
 
